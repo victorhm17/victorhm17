@@ -1,10 +1,10 @@
-## Hi there 👋
+## Olá, tudo bem? 👋
 
 <!--
 **victorhm17/victorhm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🎲 Sou um entusiasta de Machine Learning, IA Generativa, Estátistica e é claro, dados.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Eu sou Victor Silva, em transição para a área de desenvolvimento, com foco em evoluir como desenvolvedor software.
+
+🌱 Estudo desenvolvimento web e pratico com projetos usando <i>frameworks</i> modernos. <br>
+🔭 Estou construindo meu portfólio e buscando oportunidades na área tech. <br>
+📚 Já trabalhei com HTML, CSS, JS, Delphi, .NET, C#, MySQL, Firebird e SQL Server. <br>
+🧠 Minhas soft skills — comunicação, colaboração, adaptabilidade e iniciativa — são parte do meu diferencial como desenvolvedor software. <br>
+🚀 Sou movido por aprendizado contínuo e gosto de explorar novas <i>stacks</i> e boas práticas. <br>
+👀 Quer ver o que estou criando? Confira meus repositórios e <a href="#">portfólio</a>!

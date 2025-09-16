@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Eu sou Victor Silva, em transição para a área de desenvolvimento, com foco em evoluir como desenvolvedor software.
+Eu sou Victor Silva, em transição para a área de tecnologia, com foco em evoluir como desenvolvedor software.
 
 - 🌱 Estudo desenvolvimento web e pratico com projetos usando <i>frameworks</i> modernos. <br>
 - 🔭 Estou construindo meu portfólio e buscando oportunidades na área de tecnologia. <br>
